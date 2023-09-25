@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CD9E83E5-9AFB-4FB1-B15E-FB285AEE556C}|https">
+  <MonoDevelop.Ide.ItemProperties.TrackingSystemApi FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackingSystemApi/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="TrackingSystemApi/Program.cs" Line="1" Column="1" />
+      <File FileName="TrackingSystemApi/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrackingSystemApi" expanded="True">
+            <Node name="TrackingSystemApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

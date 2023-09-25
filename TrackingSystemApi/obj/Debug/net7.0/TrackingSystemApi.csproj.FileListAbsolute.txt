@@ -1,0 +1,74 @@
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/appsettings.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/TrackingSystemApi
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/TrackingSystemApi.deps.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/TrackingSystemApi.runtimeconfig.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/TrackingSystemApi.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/TrackingSystemApi.pdb
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.csproj.AssemblyReference.cache
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.AssemblyInfoInputs.cache
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.AssemblyInfo.cs
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.csproj.CoreCompileInputs.cache
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets/msbuild.TrackingSystemApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets/msbuild.build.TrackingSystemApi.props
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TrackingSystemApi.props
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TrackingSystemApi.props
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/scopedcss/bundle/TrackingSystemApi.styles.css
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.csproj.CopyComplete
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/refint/TrackingSystemApi.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.pdb
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/TrackingSystemApi.genruntimeconfig.cache
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/obj/Debug/net7.0/ref/TrackingSystemApi.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/rcedeno/RiderProjects/TrackingSystemApi/TrackingSystemApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\TrackingSystemApi.exe
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\TrackingSystemApi.deps.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\TrackingSystemApi.runtimeconfig.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\TrackingSystemApi.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\TrackingSystemApi.pdb
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.csproj.AssemblyReference.cache
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.AssemblyInfoInputs.cache
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.AssemblyInfo.cs
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets\msbuild.TrackingSystemApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingSystemApi.props
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingSystemApi.props
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingSystemApi.props
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\scopedcss\bundle\TrackingSystemApi.styles.css
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.csproj.CopyComplete
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\refint\TrackingSystemApi.dll
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.pdb
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\TrackingSystemApi.genruntimeconfig.cache
+C:\Users\Rafael Cedeno\Downloads\TrackingSystemApi\TrackingSystemApi\TrackingSystemApi\obj\Debug\net7.0\ref\TrackingSystemApi.dll
